@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tut-framer-motion/static/css/main.c48929c2.chunk.css",
+    "main.js": "/tut-framer-motion/static/js/main.22623d41.chunk.js",
+    "main.js.map": "/tut-framer-motion/static/js/main.22623d41.chunk.js.map",
+    "runtime~main.js": "/tut-framer-motion/static/js/runtime~main.1af722cf.js",
+    "runtime~main.js.map": "/tut-framer-motion/static/js/runtime~main.1af722cf.js.map",
+    "static/js/2.375f4329.chunk.js": "/tut-framer-motion/static/js/2.375f4329.chunk.js",
+    "static/js/2.375f4329.chunk.js.map": "/tut-framer-motion/static/js/2.375f4329.chunk.js.map",
+    "index.html": "/tut-framer-motion/index.html",
+    "precache-manifest.495e91f84f3416da48017047e5fe4860.js": "/tut-framer-motion/precache-manifest.495e91f84f3416da48017047e5fe4860.js",
+    "service-worker.js": "/tut-framer-motion/service-worker.js",
+    "static/css/main.c48929c2.chunk.css.map": "/tut-framer-motion/static/css/main.c48929c2.chunk.css.map",
+    "static/media/logo.svg": "/tut-framer-motion/static/media/logo.5d5d9eef.svg"
+  }
+}
