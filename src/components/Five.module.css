@@ -1,0 +1,12 @@
+.container {
+  border-radius: 5px;
+  padding: 25px;
+}
+
+.box {
+  height: 20px;
+  width: 20px;
+  background: white;
+  border-radius: 5px;
+  margin: 5px 0;
+}
